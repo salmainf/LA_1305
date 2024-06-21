@@ -57,37 +57,51 @@ Ich erhoffe mir zu lernen, wie ich mich bei einer Single-Page-Application gleich
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  24.05.2024     | Salma Tanner          |  Erstellen der Titels, mit speziellen Effekten            |  1h             |
+| 2.A  |  24.05.2024     | Salma Tanner          |  Erstellen der Pop-up Fenster, einbringen mit JavaScript            |  3h             |
+| 3.A  |  31.05.2024     | Salma Tanner          |  Links einbauen            |  2h             |
+| 4.A  |  31.05.2024     | Salma Tanner          |  Informationen einfügen            |  1h             |
+| 5.A  |  31.05.2024     | Salma Tanner          |  GitHub verknüpfen            |  30min             |
+| 6.A  |  07.06.2024     | Salma Tanner          |   Effekte einbauen, Hover einbauen           |    1h           |
+| 7.A  |  07.06.2024     | Salma Tanner          |   Farbpallette zusammestellen           |    30min           |
 
-Total: 
+Total: 9h
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich dazu entschieden, lieber weniger User-Stories zu machen, mich aber dafür umso mehr auf jede einzelne zu fokussieren, damit ich wirklich ein schönes Endergebnis habe.
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum | Zuständig | tatsächliche Zeit |
+| ---- | ----- | --------- | ----------------- |
+| 1.A  | 24.05.2024      |   Salma Tanner | 1h 30min                  |
+| 2.A  | 24.05.2024      |   Salma Tanner | 4h                  |
+| 3.A  | 24.05.2024      |   Salma Tanner | 2h               |
+| 4.A  | 24.05.2024      |   Salma Tanner | 1h 30min                 |
+| 5.A  | 24.05.2024      |   Salma Tanner | 30min                 |
+| 6.A  | 24.05.2024      |   Salma Tanner | 2h                  |
+| 7.A  | 24.05.2024      |   Salma Tanner | 30min                  |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
+
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  07.06.2024     |  OK        | Salma Tanner       |
+| 2.1  |  07.06.2024     |  OK        | Salma Tanner       |
+| 3.1  |  07.06.2024     |  OK        | Salma Tanner       |
+| 4.1  |  07.06.2024     |  OK        | Salma Tanner       |
+| 5.1  |  07.06.2024     |  OK        | Salma Tanner       |
+| 6.1  |  07.06.2024     |  OK        | Salma Tanner       |
+| 7.1  |  07.06.2024     |  OK        | Salma Tanner       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Die Webseite funktioniert wie gewünscht, sie zeigt ein angenehmes Erscheinungsbild mit schönen Farben und allen benötigten Informationen.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
+https://portfolio.bbbaden.ch/view/view.php?t=6d463d05659d82f7e7d6
