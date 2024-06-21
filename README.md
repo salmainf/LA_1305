@@ -24,23 +24,34 @@ Ich erhoffe mir zu lernen, wie ich mich bei einer Single-Page-Application gleich
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1 |  Muss               | Funktional     | Als ein User möchte ich im Titel den Namen der Erstellerin sehen, damit ich weiss von wem die Webseite ist. |
+| 2 |      Muss           | Funktional     | Als ein User möchte ich verschiedene Pop-up Fenster öffnen können, um mehr Informationen zu erhalten                                   |
+| 3 |          Muss       | Funktional     | Als ein User möchte ich verschiedene funktionierende Links öffnen können, um mir ein besseres Bild der Erstellerin machen zu können.                                   |
+| 4 |              Muss   | Funktional     |   Als ein User möchte ich alle Informationen übersichtlich dargestellt haben, um die nötigen Daten daraus zu entziehen.                                |
+| 5 |    Muss             |   Funktional   |  Als ein User möchte ich auf das GitHub Profil der Erstellerin kommen, um ihre Projekte zu überblicken                              |
+| 6 |        Muss         |     Funktional |  Als ein User möchte ich spezielle Effekte oder Hervorhebungen sehen, damit ich ihre technischen besser beurteilen kann.                              |
+| 7 |            Muss     |  Funktional    |  Als eine Programmiererin möchte ich eine passende Farbpalette zusammenstellen, um die Webseite attraktiver zu machen                                  |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| TC-№ | Ausgangslage | Erwartete Darstellung |
+| ---- | ------------ | --------------------- |
+| 1.1  | Webseite läuft | Titel: Salma Tanner                  |
+| 2.1  | Webseite läuft, klicken auf Button              | Pop-up Fenster öffnet sich                  |
+| 3.1  | Webseite läuft , klicken auf Link             |  Link führt auf verwiesene Webseite                |
+| 4.1  | Webseite läuft              |  Informationen aufgeführt in guter Anordnung                 |
+| 5.1  | Webseite läuft, auf GitHub Logo geklickt             |   GitHub Profil der Erstellerin öffnet sich               |
+| 6.1  | Webseite läuft, Mauszeiger schweift über Informationen           |     Informationen werden hervorgehoben/Effekts kommen hervor              |
+| 7.1  | Webseite läuft              |   Harmonierendes Erscheinungsbild                |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![Screenshot 2024-06-21 104225](https://github.com/salmainf/LA_1305/assets/110892351/9dae8ce2-4f96-45db-83b2-90858d5351c3)
+
 
 ## 2 Planen
 
