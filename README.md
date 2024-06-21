@@ -2,23 +2,23 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Salma Tanner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
-
+|03.05.2024| 0.0.1 |Informieren, Projektidee finden  |
+|17.05.2024| 0.0.2 |Planen, Entscheiden |
+|24.05.2024| 0.0.3 |Realisieren                                                              |
+|31.05.2024| 0.0.4 |Fortsetzung Realisieren                                                              |
+|07.06.2024| 0.0.5 |Realisieren abschliessen, Kontrollieren, Auswerten  |
+|14.06.2024| 0.0.6 | Portfolioeintrag |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Mithilfe von HTML/CSS/JavaScript habe ich eine kleine Single-Page-Application erstellt, welche ich als Bewerbungswebseite verwenden kann.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Ich erhoffe mir zu lernen, wie ich mich bei einer Single-Page-Application gleichzeitig auf das Design aber auch auf die Funktionalität konzentrieren kann. Die Webseite sollte nähmlich ansprechend aussehen aber dennoch die wichtigsten Informationen bereitstellen, die potenzielle Arbeitgeber benötigen. Ich werde mich entscheiden müssen, was ich auf der Webseite darstellen möchte und was nicht. JavaScript einzubauen könnte schwierig werden, aber das werde ich hoffentlich trotzdem meistern.
 
 ### 1.2 User Stories
 
